@@ -1,1 +1,4 @@
-# Aphrodite
+# Yang
+
+## Setup
+- npm install
